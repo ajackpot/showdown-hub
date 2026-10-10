@@ -1,0 +1,562 @@
+{
+  "schemaVersion": "1.0.0",
+  "appVersion": "0.6.1",
+  "releaseId": "release-public-20261010092804-3abac4ec",
+  "mode": "public",
+  "generatedAt": "2026-10-10T09:28:04.061Z",
+  "dataAsOf": "2026-10-10T06:35:27.033Z",
+  "sources": [
+    {
+      "id": "S01",
+      "name": "IBSA 쇼다운",
+      "group": "sport",
+      "region": "국제",
+      "description": "소식 · 대회·결과 · 규칙·운영 · 훈련·장비",
+      "homepage": "https://ibsasport.org/sports/showdown/overview/",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S02",
+      "name": "한국시각장애인스포츠연맹",
+      "group": "sport",
+      "region": "한국",
+      "description": "소식 · 대회·결과 · 규칙·운영",
+      "homepage": "https://kbsa.koreanpc.kr/org/kbsa/boards/notice",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S03",
+      "name": "우리동작장애인자립생활센터",
+      "group": "sport",
+      "region": "한국",
+      "description": "소식 · 대회·결과 · 훈련·장비",
+      "homepage": "https://www.wdcil.org/bbs/board.php?bo_table=notice",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S04",
+      "name": "에이블뉴스",
+      "group": "sport",
+      "region": "한국",
+      "description": "소식 · 대회·결과",
+      "homepage": "https://www.ablenews.co.kr/news/articleView.html?idxno=220097",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S05",
+      "name": "서울특별시장애인체육회",
+      "group": "sport",
+      "region": "한국",
+      "description": "소식 · 대회·결과",
+      "homepage": "https://spsa.or.kr/sub/pr03.php?boardid=news&idx=874&mNum=2&mode=view&sNum=2",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S06",
+      "name": "한국시각장애인연합회",
+      "group": "sport",
+      "region": "한국",
+      "description": "훈련·장비 · 규칙·운영",
+      "homepage": "https://www.kbuwel.or.kr/Board/WebToon/Detail?contentSeq=1209311&page=1",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S07",
+      "name": "FISPIC 쇼다운",
+      "group": "sport",
+      "region": "이탈리아",
+      "description": "소식 · 대회·결과 · 규칙·운영 · 훈련·장비",
+      "homepage": "https://fispic.it/discipline-sportive/showdown/",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S08",
+      "name": "프랑스 Handisport 쇼다운",
+      "group": "sport",
+      "region": "프랑스",
+      "description": "소식 · 대회·결과 · 규칙·운영 · 훈련·장비",
+      "homepage": "https://www.handisport.org/showdown/",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S09",
+      "name": "Showdown Germany",
+      "group": "sport",
+      "region": "독일",
+      "description": "소식 · 대회·결과 · 규칙·운영 · 훈련·장비",
+      "homepage": "https://www.showdown-germany.de/",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S10",
+      "name": "체코 시각장애인스포츠연맹 쇼다운 일정",
+      "group": "sport",
+      "region": "체코",
+      "description": "대회·결과 · 소식",
+      "homepage": "https://www.cbsf.cz/showdown-akce",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S11",
+      "name": "Braillnet 쇼다운 일정 자료실",
+      "group": "sport",
+      "region": "체코",
+      "description": "대회·결과",
+      "homepage": "https://showdown.braillnet.cz/kalendar.htm",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S12",
+      "name": "GameResultsOnline 쇼다운 결과",
+      "group": "sport",
+      "region": "여러 국가",
+      "description": "대회·결과",
+      "homepage": "https://www.gameresultsonline.com/completed/showdown",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S13",
+      "name": "Tournify — 공식 공지에서 연결한 대회만",
+      "group": "sport",
+      "region": "여러 국가",
+      "description": "대회·결과",
+      "homepage": "https://tournifyapp.com/live/ibsaec2026",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S14",
+      "name": "핀란드 패럴림픽위원회",
+      "group": "sport",
+      "region": "핀란드",
+      "description": "소식 · 대회·결과 · 훈련·장비",
+      "homepage": "https://www.paralympia.fi/fi/32/uutiset/333/suomen-paralympiakomitean-hallitus-kasitteli-huippu-urheilun-kehittamista-ja-yhteistyota-olympiakomitean-kanssa",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S15",
+      "name": "Gehandicaptensport Nederland 쇼다운",
+      "group": "sport",
+      "region": "네덜란드",
+      "description": "소식 · 대회·결과 · 훈련·장비",
+      "homepage": "https://www.gehandicaptensport.nl/sporten-en-topsport/showdown",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S16",
+      "name": "Showdown.nl",
+      "group": "sport",
+      "region": "네덜란드",
+      "description": "소식 · 대회·결과 · 규칙·운영",
+      "homepage": "https://www.showdown.nl/",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S17",
+      "name": "Swiss Showdown",
+      "group": "sport",
+      "region": "스위스",
+      "description": "소식 · 대회·결과 · 훈련·장비",
+      "homepage": "https://www.swiss-showdown.ch/",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S18",
+      "name": "BC Blind Sports 쇼다운",
+      "group": "sport",
+      "region": "캐나다",
+      "description": "훈련·장비 · 규칙·운영",
+      "homepage": "https://bcblindsports.bc.ca/sports/showdown/",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S19",
+      "name": "Lesgaft 학술지",
+      "group": "research",
+      "region": "러시아",
+      "description": "연구 · 훈련·장비",
+      "homepage": "https://uchzapiski.lesgaft.spb.ru/en/nauka/article/94820/view",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S20",
+      "name": "BIO Web of Conferences",
+      "group": "research",
+      "region": "국제",
+      "description": "연구",
+      "homepage": "https://www.bio-conferences.org/articles/bioconf/full_html/2020/10/bioconf_pes2020_00062/bioconf_pes2020_00062.html",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S21",
+      "name": "Taylor & Francis",
+      "group": "research",
+      "region": "국제",
+      "description": "연구",
+      "homepage": "https://www.tandfonline.com/doi/abs/10.1080/07370024.2024.2342961",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S22",
+      "name": "SUNY Research Connect",
+      "group": "research",
+      "region": "미국",
+      "description": "연구",
+      "homepage": "https://researchconnect.suny.edu/en/publications/virtual-showdown-an-accessible-virtual-reality-game-with-scaffold/",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S23",
+      "name": "Crossref",
+      "group": "discovery",
+      "region": "국제",
+      "description": "연구",
+      "homepage": "https://api.crossref.org/works",
+      "reviewedOn": "2026-10-10",
+      "connection": "active",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S24",
+      "name": "OpenAlex",
+      "group": "discovery",
+      "region": "국제",
+      "description": "연구",
+      "homepage": "https://api.openalex.org/works",
+      "reviewedOn": "2026-10-10",
+      "connection": "candidate",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S25",
+      "name": "DataCite",
+      "group": "discovery",
+      "region": "국제",
+      "description": "연구",
+      "homepage": "https://api.datacite.org/dois",
+      "reviewedOn": "2026-10-10",
+      "connection": "candidate",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S26",
+      "name": "Zenodo",
+      "group": "discovery",
+      "region": "국제",
+      "description": "연구",
+      "homepage": "https://zenodo.org/api/records/",
+      "reviewedOn": "2026-10-10",
+      "connection": "candidate",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S27",
+      "name": "RISS",
+      "group": "discovery",
+      "region": "한국",
+      "description": "연구",
+      "homepage": "https://www.riss.kr/",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S28",
+      "name": "KCI",
+      "group": "discovery",
+      "region": "한국",
+      "description": "연구",
+      "homepage": "https://www.kci.go.kr/",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    },
+    {
+      "id": "S29",
+      "name": "Google Scholar",
+      "group": "discovery",
+      "region": "국제",
+      "description": "연구",
+      "homepage": "https://scholar.google.com/",
+      "reviewedOn": "2026-10-10",
+      "connection": "manual",
+      "lastSuccessfulCollectionAt": null
+    }
+  ],
+  "records": [
+    {
+      "id": "item-f8c9a0f4155ca5aec6859f37",
+      "sourceId": "S23",
+      "isTest": false,
+      "category": "research",
+      "origin": "international",
+      "language": "und",
+      "title": {
+        "ko": "쇼다운을 통한 시각장애 학생의 신체·심리적 적응 연구",
+        "original": "Psychophysical adaptation of visually impaired students through Showdown game",
+        "status": "reviewed"
+      },
+      "summary": {
+        "ko": null,
+        "status": "not_provided"
+      },
+      "originalUrl": "https://doi.org/10.1051/bioconf/20202600062",
+      "canonicalUrl": "https://doi.org/10.1051/bioconf/20202600062",
+      "doi": "10.1051/bioconf/20202600062",
+      "dates": {
+        "published": {
+          "value": "2020-11-06",
+          "precision": "day",
+          "basis": "Crossref published-online date-parts; 원발행처 대조 전"
+        },
+        "modified": null,
+        "eventStart": null,
+        "eventEnd": null,
+        "effective": null,
+        "firstSeenAt": "2026-10-10T06:32:55.896Z",
+        "lastVerifiedAt": "2026-10-10T06:35:26.972Z"
+      },
+      "review": {
+        "state": "approved",
+        "scope": "metadata",
+        "note": ""
+      },
+      "importance": null,
+      "tags": [
+        "쇼다운"
+      ],
+      "attachments": [],
+      "relatedIds": [],
+      "research": {
+        "type": "conference_paper",
+        "participants": null,
+        "findings": null,
+        "limitations": null,
+        "datasetStatus": "unconfirmed",
+        "datasetUrl": null
+      },
+      "ruleInfo": null
+    },
+    {
+      "id": "item-75530142c200c54dcd15a736",
+      "sourceId": "S23",
+      "isTest": false,
+      "category": "research",
+      "origin": "international",
+      "language": "en",
+      "title": {
+        "ko": "시각장애인을 위한 다중 사용자 VR 쇼다운 게임 연구",
+        "original": "A multiplayer VR showdown game for people with visual impairment",
+        "status": "reviewed"
+      },
+      "summary": {
+        "ko": null,
+        "status": "not_provided"
+      },
+      "originalUrl": "https://doi.org/10.1080/07370024.2024.2342961",
+      "canonicalUrl": "https://doi.org/10.1080/07370024.2024.2342961",
+      "doi": "10.1080/07370024.2024.2342961",
+      "dates": {
+        "published": {
+          "value": "2024-04-18",
+          "precision": "day",
+          "basis": "Crossref published-online date-parts; 원발행처 대조 전"
+        },
+        "modified": null,
+        "eventStart": null,
+        "eventEnd": null,
+        "effective": null,
+        "firstSeenAt": "2026-10-10T06:32:55.896Z",
+        "lastVerifiedAt": "2026-10-10T06:35:27.033Z"
+      },
+      "review": {
+        "state": "approved",
+        "scope": "metadata",
+        "note": ""
+      },
+      "importance": null,
+      "tags": [
+        "쇼다운",
+        "가상현실 연구"
+      ],
+      "attachments": [],
+      "relatedIds": [],
+      "research": {
+        "type": "vr_study",
+        "participants": null,
+        "findings": null,
+        "limitations": null,
+        "datasetStatus": "unconfirmed",
+        "datasetUrl": null
+      },
+      "ruleInfo": null
+    },
+    {
+      "id": "item-09e57e853ab86443d4939368",
+      "sourceId": "S02",
+      "isTest": false,
+      "category": "news",
+      "origin": "domestic",
+      "language": "ko",
+      "title": {
+        "ko": "2026 쇼다운 심판 보수교육 참가 신청 안내",
+        "original": "[2026 쇼다운 심판 보수교육] 참가 신청 안내",
+        "status": "reviewed"
+      },
+      "summary": {
+        "ko": null,
+        "status": "not_provided"
+      },
+      "originalUrl": "https://kbsa.koreanpc.kr/org/kbsa/boards/notice/posts/24271?fromPage=1",
+      "canonicalUrl": "https://kbsa.koreanpc.kr/org/kbsa/boards/notice/posts/24271?fromPage=1",
+      "doi": null,
+      "dates": {
+        "published": {
+          "value": "2026-05-28",
+          "precision": "day",
+          "basis": "운영자가 원문에서 확인한 게시일"
+        },
+        "modified": null,
+        "eventStart": null,
+        "eventEnd": null,
+        "effective": null,
+        "firstSeenAt": "2026-10-10T06:35:26.704Z",
+        "lastVerifiedAt": "2026-10-10T06:35:26.754Z"
+      },
+      "review": {
+        "state": "approved",
+        "scope": "metadata",
+        "note": ""
+      },
+      "importance": null,
+      "tags": [],
+      "attachments": [],
+      "relatedIds": [],
+      "research": null,
+      "ruleInfo": null
+    },
+    {
+      "id": "item-56e1dcd6aabd360706fe1de1",
+      "sourceId": "S01",
+      "isTest": false,
+      "category": "news",
+      "origin": "international",
+      "language": "en",
+      "title": {
+        "ko": "IBSA 쇼다운 종목 소개",
+        "original": "About Showdown",
+        "status": "reviewed"
+      },
+      "summary": {
+        "ko": null,
+        "status": "not_provided"
+      },
+      "originalUrl": "https://ibsasport.org/sports/showdown/overview/",
+      "canonicalUrl": "https://ibsasport.org/sports/showdown/overview/",
+      "doi": null,
+      "dates": {
+        "published": null,
+        "modified": null,
+        "eventStart": null,
+        "eventEnd": null,
+        "effective": null,
+        "firstSeenAt": "2026-10-10T06:35:26.800Z",
+        "lastVerifiedAt": "2026-10-10T06:35:26.839Z"
+      },
+      "review": {
+        "state": "approved",
+        "scope": "metadata",
+        "note": ""
+      },
+      "importance": null,
+      "tags": [],
+      "attachments": [],
+      "relatedIds": [],
+      "research": null,
+      "ruleInfo": null
+    },
+    {
+      "id": "item-57aace52d52afeb46ff9860f",
+      "sourceId": "S10",
+      "isTest": false,
+      "category": "events",
+      "origin": "overseas",
+      "language": "cs",
+      "title": {
+        "ko": "체코 시각장애인스포츠연맹의 쇼다운 대회·결과 안내",
+        "original": "Showdown - akce",
+        "status": "reviewed"
+      },
+      "summary": {
+        "ko": null,
+        "status": "not_provided"
+      },
+      "originalUrl": "https://www.cbsf.cz/showdown-akce",
+      "canonicalUrl": "https://www.cbsf.cz/showdown-akce",
+      "doi": null,
+      "dates": {
+        "published": null,
+        "modified": null,
+        "eventStart": null,
+        "eventEnd": null,
+        "effective": null,
+        "firstSeenAt": "2026-10-10T06:35:26.872Z",
+        "lastVerifiedAt": "2026-10-10T06:35:26.904Z"
+      },
+      "review": {
+        "state": "approved",
+        "scope": "metadata",
+        "note": ""
+      },
+      "importance": null,
+      "tags": [],
+      "attachments": [],
+      "relatedIds": [],
+      "research": null,
+      "ruleInfo": null
+    }
+  ]
+}

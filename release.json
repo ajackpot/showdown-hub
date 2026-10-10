@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "releaseId": "release-public-20261010092804-3abac4ec",
+  "appVersion": "0.6.1",
+  "mode": "public",
+  "createdAt": "2026-10-10T09:28:04.061Z",
+  "files": [
+    {
+      "name": "index.html",
+      "size": 2045,
+      "sha256": "3ff545879aa0d19222458ec207adabf42ee57664e7cd8f3b8355c7ceb596686e"
+    },
+    {
+      "name": "assets/app.js",
+      "size": 24646,
+      "sha256": "6329eaac4f8c46268c82c243d021d7c4f6fe9d27d16d5261a462ca234db6d9de"
+    },
+    {
+      "name": "assets/config.js",
+      "size": 939,
+      "sha256": "aad612e6c2a4199310c267698f026cda096eca00fe145aa6d736d7117b98f5d4"
+    },
+    {
+      "name": "assets/model.js",
+      "size": 10673,
+      "sha256": "8ef589b73f47a4352bb9d424c2e0f1fec169bd55ef3721a1aae83011ac7561fa"
+    },
+    {
+      "name": "assets/style.css",
+      "size": 9011,
+      "sha256": "085e9d3c5cb9c24e3066a0212d41c4724a9d98fb9b0c51fb73455a4eb2f2b8c0"
+    },
+    {
+      "name": "data/catalog.json",
+      "size": 17246,
+      "sha256": "66d2a83b49e15e6bfaad893fbd349b57675c2a6063d23f61d7b91866c47dd4f5"
+    },
+    {
+      "name": ".nojekyll",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}
